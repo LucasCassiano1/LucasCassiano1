@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=170&section=header&color=0:070B1C,48:123D69,100:5B2A86&reversal=false"
+    width="100%"
+    alt=""
+  />
+</p>
 
-<!--
-**LucasCassiano1/LucasCassiano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=42&duration=2600&pause=700&color=72F1FF&background=070B1C&center=true&vCenter=true&repeat=true&width=640&height=105&lines=Lucas+Cassiano"
+    alt=""
+  />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&color=0:5B2A86,48:123D69,100:070B1C&reversal=true"
+    width="100%"
+    alt=""
+  />
+</p>
